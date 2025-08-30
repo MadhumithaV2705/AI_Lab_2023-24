@@ -24,15 +24,15 @@ graph = {
 }
 
 visited = []  
-queue = []   
+queue = []    
 
-def bfs(visited, graph, node):
+def bfs(visited, graph, node): 
     visited.append(node)
     queue.append(node)
 
-    while queue: 
+    while queue:
         m = queue.pop(0)
-        print(m)
+        print(m, end=" ")
 
         for neighbour in graph[m]:
             if neighbour not in visited:
@@ -44,7 +44,7 @@ bfs(visited, graph, '5')
 
 ```
 ### Output:
-<img width="551" height="268" alt="image" src="https://github.com/user-attachments/assets/a826f5ef-3f56-4592-8dad-3c62739025b6" />
+<img width="505" height="102" alt="image" src="https://github.com/user-attachments/assets/5a058258-ca9d-4cf6-becc-55a8148f8efa" />
 
 
 ### Result:
