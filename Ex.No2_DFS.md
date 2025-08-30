@@ -22,11 +22,10 @@ graph = {
     '8': []
 }
 
-visited = set() 
-
-def dfs(visited, graph, node): 
+visited = set()
+def dfs(visited, graph, node):  
     if node not in visited:
-        print(node)
+        print(node, end=" ")
         visited.add(node)
         for neighbour in graph[node]:
             dfs(visited, graph, neighbour)
@@ -36,7 +35,7 @@ dfs(visited, graph, '5')
 ```
 
 ### Output:
-<img width="477" height="269" alt="image" src="https://github.com/user-attachments/assets/0dd67054-c909-4e83-82f9-46a359d99f10" />
+<img width="490" height="109" alt="image" src="https://github.com/user-attachments/assets/a56670d0-ba09-4289-b9c3-d7980a787ac9" />
 
 ### Result:
 Thus the depth first search order was found sucessfully.
