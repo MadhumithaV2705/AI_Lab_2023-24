@@ -30,9 +30,7 @@ eats(sue, X):-eats(bill, X).
 eats(bill, peanuts).
 ```
 ### Output:
-```
-likes(john, apple).
-```
+
 ### <img width="1028" height="330" alt="image" src="https://github.com/user-attachments/assets/0e1f3f62-7017-4565-80d0-7b88b3b43ce7" />
 
 ### Task 2:
@@ -52,9 +50,7 @@ dept(havefun,bk301).
 ```
 
 ### Output:
-```
-likes(steve, X).
-```
+
 ### <img width="1024" height="332" alt="image" src="https://github.com/user-attachments/assets/e6d372c0-27f5-4f7a-921f-96e923879b50" />
 
 ### Task 3:
