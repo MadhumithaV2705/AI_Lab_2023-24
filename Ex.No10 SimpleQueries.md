@@ -1,6 +1,6 @@
 # Ex.No: 10  Logic Programming –  Simple queries from facts and rules
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 06.09.2025                                                                           
+### REGISTER NUMBER : 212223060145
 ### AIM: 
 To write a prolog program to find the answer of query. 
 ###  Algorithm:
@@ -11,7 +11,7 @@ To write a prolog program to find the answer of query.
  Step 5:  Pass the query to program. <br> 
  Step 6: Prolog interpreter shows the output and return answer. <br> 
  Step 8:  Stop the program.
-### Program:
+ 
 ### Task 1:
 Construct the FOL representation for the following sentences <br> 
 1.	John likes all kinds of food.  <br> 
@@ -19,7 +19,8 @@ Construct the FOL representation for the following sentences <br>
 3.	Chicken is a food.  <br> 
 4.	Sue eats everything Bill eats. <br> 
 5.	 Bill eats peanuts  <br> 
-   Convert into clause form and Prove that John like Apple by using Prolog. <br> 
+   Convert into clause form and Prove that John like Apple by using Prolog. <br>
+
 ### Program:
 ```
 likes(john, X):-food(X).
@@ -32,7 +33,7 @@ eats(bill, peanuts).
 ```
 likes(john, X).
 ```
-<img width="1028" height="330" alt="image" src="https://github.com/user-attachments/assets/0e1f3f62-7017-4565-80d0-7b88b3b43ce7" />
+### <img width="1028" height="330" alt="image" src="https://github.com/user-attachments/assets/0e1f3f62-7017-4565-80d0-7b88b3b43ce7" />
 
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
@@ -54,7 +55,7 @@ dept(havefun,bk301).
 ```
 likes(steve, X).
 ```
-<img width="1024" height="332" alt="image" src="https://github.com/user-attachments/assets/e6d372c0-27f5-4f7a-921f-96e923879b50" />
+### <img width="1024" height="332" alt="image" src="https://github.com/user-attachments/assets/e6d372c0-27f5-4f7a-921f-96e923879b50" />
 
 ### Task 3:
 Consider the statement <br> 
