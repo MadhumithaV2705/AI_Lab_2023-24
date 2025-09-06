@@ -31,7 +31,7 @@ eats(bill, peanuts).
 ```
 ### Output:
 ```
-likes(john, X).
+likes(john, apple).
 ```
 ### <img width="1028" height="330" alt="image" src="https://github.com/user-attachments/assets/0e1f3f62-7017-4565-80d0-7b88b3b43ce7" />
 
