@@ -44,9 +44,9 @@ fulladder(X,Y,Z,S,C):-
     or(T2,T3,C).
 ```
 ### Output:
-<img width="944" height="336" alt="image" src="https://github.com/user-attachments/assets/e88d06ea-728c-43e9-8869-68761671c3d3" />
-<img width="947" height="357" alt="image" src="https://github.com/user-attachments/assets/66e3e39d-9570-439c-9e81-50f530579291" />
-<img width="940" height="356" alt="image" src="https://github.com/user-attachments/assets/342e6742-a035-4ee1-b117-92cc9626fa5c" />
+###### <img width="944" height="336" alt="image" src="https://github.com/user-attachments/assets/e88d06ea-728c-43e9-8869-68761671c3d3" />
+###### <img width="947" height="357" alt="image" src="https://github.com/user-attachments/assets/66e3e39d-9570-439c-9e81-50f530579291" />
+###### <img width="940" height="356" alt="image" src="https://github.com/user-attachments/assets/342e6742-a035-4ee1-b117-92cc9626fa5c" />
 
 ### Result:
 Thus the truth table of circuit verified sucessfully.
