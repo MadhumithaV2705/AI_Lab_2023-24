@@ -78,7 +78,12 @@ print("\nClassification Report:\n", classification_report(y_test, y_pred))
 ```
 
 ### Output:
-
+<img width="549" height="393" alt="image" src="https://github.com/user-attachments/assets/920e1548-a715-4307-b77f-68e37488544d" />
+<img width="684" height="622" alt="image" src="https://github.com/user-attachments/assets/f70d07d7-bd8a-4b25-816f-1bd17a38355f" />
+<img width="693" height="667" alt="image" src="https://github.com/user-attachments/assets/608e6327-963a-4bcb-bbb3-62cccd508aff" />
+<img width="859" height="470" alt="image" src="https://github.com/user-attachments/assets/842eada3-0f81-493c-845f-d3c55ea111d2" />
+<img width="884" height="547" alt="image" src="https://github.com/user-attachments/assets/8aba3682-c16d-4672-bce9-4b84b09e1fac" />
+<img width="662" height="267" alt="image" src="https://github.com/user-attachments/assets/9247dd8f-88f6-42c8-9567-f210e26f743d" />
 
 ### Result:
 Thus, the system was trained successfully on the Netflix dataset, and the prediction of content type (Movie/TV Show) was carried out with good accuracy.
