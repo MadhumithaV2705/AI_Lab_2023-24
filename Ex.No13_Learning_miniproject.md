@@ -6,7 +6,7 @@
 To write a program to train a classifier for predicting the content type (Movie/TV Show) of Netflix titles using Supervised Learning.
 
 ###  Algorithm:
-# Random Forest Classifier
+Random Forest Classifier
 1. Handle categorical features using label encoding
 2. Split data into training and testing sets
 3. Train Random Forest classifier
